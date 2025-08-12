@@ -10,5 +10,3 @@ Permite a los usuarios agregar nombres, ver la lista y seleccionar uno de forma 
 - **Lista visible**: los nombres ingresados se muestran en pantalla.
 - **Sorteo aleatorio**: selecciona un nombre aleatoriamente y lo muestra.
 - Diseño responsive y estilizado con **CSS**.
-
-## 📂 Estructura del proyecto
