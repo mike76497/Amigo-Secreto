@@ -1,2 +1,14 @@
-# Amigo-Secreto
-El programa te permite agregar nombres mediante un campo de texto y un botón "Adicionar". Los nombres ingresados se mostrarán en una lista visible en la página, y al finalizar, un botón "Sortear Amigo" seleccionará uno de los nombres de forma aleatoria, mostrando el resultado en pantalla.
+# 🎁 Amigo Secreto
+
+Aplicación web sencilla para realizar un **sorteo de amigo secreto**.  
+Permite a los usuarios agregar nombres, ver la lista y seleccionar uno de forma aleatoria.
+
+## 🚀 Características
+
+- **Agregar nombres** a la lista mediante un campo de texto y un botón.
+- **Validación**: no permite agregar nombres vacíos.
+- **Lista visible**: los nombres ingresados se muestran en pantalla.
+- **Sorteo aleatorio**: selecciona un nombre aleatoriamente y lo muestra.
+- Diseño responsive y estilizado con **CSS**.
+
+## 📂 Estructura del proyecto
